@@ -1,4 +1,4 @@
-[![MasterHead](https://d2rjvl4n5h2b61.cloudfront.net/media/images/Coding.2e16d0ba.fill-1280x350-c100.jpg)(https://github.com/gabrielfogaca)
+![MasterHead](https://d2rjvl4n5h2b61.cloudfront.net/media/images/Coding.2e16d0ba.fill-1280x350-c100.jpg)
 
 <h1 align="center">Hi 👋, I'm Gabriel Furlan Fogaça</h1>
 <h3 align="center">Problem Solver & Learner | Exploring New Technologies</h3>
